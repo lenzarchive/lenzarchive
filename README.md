@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm lenzarchive
+# Hey there! I'm lenzarchive 👋
 
 <div align="center">
   
