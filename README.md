@@ -40,7 +40,7 @@ I usually write all my project documentation in professional English because, yo
   
 <img src="https://github-readme-stats.vercel.app/api?username=lenzarchive&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lenzarchive&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-19f0rz6dq-alenforces-projects.vercel.app/?user=lenzarchive&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenzarchive&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
