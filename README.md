@@ -25,6 +25,8 @@ I usually write all my project documentation in professional English because, yo
 ![PHP](https://img.shields.io/badge/-PHP-FF2D20?style=flat-square&logo=php&logoColor=white)
 
 ### Frameworks & Libraries
+![Next.js](https://img.shields.io/badge/-Next.js-2F3349?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
