@@ -8,7 +8,7 @@
 
 ## ✋ About Me
 
-> *"I'm an import engineer 🗣️💢"*
+> *"I'm an import engineer btw 🗣️💢"*
 
 Hey! I'm a full-stack developer from Indonesia 🇮🇩 who's absolutely passionate about coding and building cool stuff. Fun fact: I'm married to Sunaookami Shiroko from Blue Archive ✨ (yes, the "Archive" in my username is totally inspired by that amazing game!)
 
