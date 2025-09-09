@@ -10,7 +10,7 @@
 
 > *"I'm an import engineer btw 🗣️💢"*
 
-Hey! I'm a full-stack developer from Indonesia 🇮🇩 who's absolutely passionate about coding and building cool stuff. Fun fact: I'm married to Sunaookami Shiroko from Blue Archive ✨ (yes, the "Archive" in my username is totally inspired by that amazing game!)
+Hey! I'm a students developer from Indonesia 🇮🇩 who's absolutely passionate about coding and building cool stuff. Fun fact: I'm married to Sunaookami Shiroko from Blue Archive ✨ (yes, the "Archive" in my username is totally inspired by that amazing game!)
 
 I usually write all my project documentation in professional English because, you know, global standards and all that. My username reflects my mission: creating a personal archive of learning, experiments, and epic projects - just like collecting memories in Kivotos!
 
