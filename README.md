@@ -22,7 +22,7 @@ I usually write all my project documentation in professional English because, yo
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lenzarchive&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenzarchive&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
 </div>
 
