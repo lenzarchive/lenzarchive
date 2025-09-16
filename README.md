@@ -71,3 +71,5 @@ I usually write all my project documentation in professional English because, yo
 ![Visitor Count](https://komarev.com/ghpvc/?username=lenzarchive&color=ff69b4&style=flat-square&label=Profile+Views)
 
 </div>
+
+**offline for a while, my keyboard is broken btw** 💢
