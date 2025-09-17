@@ -66,7 +66,7 @@ I usually write all my project documentation in professional English because, yo
 
 <div align="center">
   
-**✨ "Just a full-stack dev living the dream with Shiroko by my side" ✨**
+**✨ "Just a dev living the dream with Shiroko by my side" ✨**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=lenzarchive&color=ff69b4&style=flat-square&label=Profile+Views)
 
